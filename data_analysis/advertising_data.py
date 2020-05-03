@@ -1,3 +1,4 @@
+import plot_functions.chapter_two_plots as c2
 import pandas as pd
 import numpy as np
 import os
