@@ -3,7 +3,7 @@
 This repos was created to complement the book, "An Introduction to Statistical Learning with Applications in R"
 and to replace the coding examples with Python instead of R
 
-![BOOK](ISLR.jpg)
+![BOOK](ISLR_book_cover.jpg)
 
 The website for this book is located at 
 
